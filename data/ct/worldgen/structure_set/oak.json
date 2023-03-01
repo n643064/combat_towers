@@ -1,0 +1,19 @@
+{
+  "structures": [
+    {
+      "structure": "ct:oak",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 2016923207,
+    "exclusion_zone": {
+      "other_set": "minecraft:villages",
+      "chunk_count": 6
+    },
+    "spread_type": "triangular",
+    "spacing": 16,
+    "separation": 12
+  }
+}
