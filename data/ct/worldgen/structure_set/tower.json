@@ -3,6 +3,10 @@
     {
       "structure": "ct:oak",
       "weight": 1
+    },
+    {
+      "structure": "ct:cobblestone",
+      "weight": 2
     }
   ],
   "placement": {
@@ -13,7 +17,7 @@
       "chunk_count": 6
     },
     "spread_type": "triangular",
-    "spacing": 16,
-    "separation": 12
+    "spacing": 10,
+    "separation": 8
   }
 }

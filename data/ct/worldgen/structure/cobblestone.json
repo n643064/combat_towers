@@ -10,7 +10,7 @@
   "step": "surface_structures",
   "spawn_overrides": {},
   "terrain_adaptation": "beard_box",
-  "start_pool": "ct:oak/start",
+  "start_pool": "ct:cobblestone/start",
   "size": 7,
   "start_height": {
     "absolute": -1
